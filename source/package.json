@@ -3,6 +3,7 @@
     "jsdom": "^11.6.2",
     "markdown-it-anchor": "^4.0.0",
     "markdown-it-decorate": "^1.2.2",
+    "markdown-it-deflist": "^2.0.3",
     "markdown-it-footnote": "^3.0.1",
     "markdown-it-multimd-table": "^3.1.1",
     "markdown-it-sub-alt-mod": "file:plugins/markdown-it-sub-alt-mod",

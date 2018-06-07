@@ -10,6 +10,10 @@ div.page-content
     padding: 0 5em
     width: 60em
     text-align: justify
+    h1, h2, h3, h4, h5, h6
+        margin: 2px 0 2px -0.5em
+        padding: 3pt 0.5em 0 0
+        text-indent: 0.5em
 div.scratchpad
     width: 90%
     margin: 0 auto
@@ -77,14 +81,33 @@ a:hover
 h1, h2, h3, h4, h5, h6
     font-variant: small-caps
     margin: 2px 0
+    padding-top: 3pt
+    width: 100%
+h2, h3, h4, h5, h6
+    &:target
+        background-color: #cf07
+h2
+    line-height: 1
+    border-bottom: 1px solid #000
 h4
-    color: #776
+    color: #777
 .author
     text-align: center
     font-weight: bold
+.subtitle
+    text-align: center
+    font-weight: bold
+    font-style: italic
 .center
     text-align: center
     display: block
+.quote-author
+    display: block
+    text-align: right
+    padding-right: 2.5em
+    font-style: italic
+    &::before
+        content: '― '
 p, ul
     margin: 4px 0
 blockquote
@@ -173,6 +196,16 @@ pre
     & code, & tt
         background: transparent
         border: none
+.out-of-world-note
+    padding: .1em .3em
+    background: #fff
+    border: 1px solid #777
+    border-radius: .4em
+    font-family: 'Segoe UI'
+    &::before
+        content: "OOW: "
+        color: #58180D
+        font-weight: bolder
 @media only screen  and (max-width: 1224px)
     div.page-content
         padding: 0 5%
