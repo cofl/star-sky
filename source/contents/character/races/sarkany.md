@@ -27,6 +27,8 @@ To any Sarkany, the good of the household is more important than life itself. Sa
 
 A continual drive for self-improvement reflects the tenacity of the race as a whole. Sarkany value skill and excellence in all endeavors, but are patient enough to step back when something doesn't seem right and work out the problems before moving on, even if the problems don't want to give them the time. Failure is just another tool for success.
 
+Sarkany religion is based around the worship of the ancestors, though it's not unheard of for individual households to take a [human god] into their pantheon.
+
 ### Names
 Sarkany have personal names given at birth, and inherit the family and household names from their parents. A childhood name or nickname is often used among siblings as a descriptive term or a term of endearment. The name might recall an event or center on a habit.
 
@@ -65,20 +67,51 @@ Your sarkany chacater has an assortment of inborn abilities, part and parcel of 
 : You have resistance to Fire and Cold damage.
 
 ### Dalish
-TODO: copper-green (dale-dwelling)
+The Dalish Sarkany are the most common on the surface of and beyond Ter; long ago, their founding households left the great caves for the surface, where they now populate the foothills, forests, and dells of the Titan mountain range. Dalish Sarkany are also the shortest of the Sarkany breeds, standing between five and six and a half feet tall. Their scales vary in color from a coppery brass to a patina sheen.
+
+Dalish Sarkany are known for their skill as sorcerers and diplomats.
+
+**Ability Score Increase.**
+: Your Charisma score increases by 2.
 
 ### Vasak
-TODO: iron-colored (mountain-dwelling)
+Moving further into the mountains, Vasak Sarkany are most common here. They tend to be taller than their Dalish cousins, between under six and under seven feet, and their scales take a dull grey to iron tone. Vasak mercenaries were highly sought after for their strength, durability, and aptitude with the divine, which was not hampered by their armor.
 
-### Kövek
-TODO: deep sarkany (red-colored)
+**Ability Score Increase.**
+: Your Wisdom score increases by 1.
 
-### Kovish
-TODO: brass-colored
+**Thick Hide.**
+: Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+
+### Kovek
+Kovek Sarkany claim to be the eldermost of the Sarkany breeds, and stake their claim deep within the caverns under the Titan's Shield, the entrances of which are protected by the frigid Sanghar Desert to the north, and the towering Titan Mountains to the south. Kovek Sarkany tower over their brethren, standing between six and eight feet tall. Their scales are red, gold, or bronze.
+
+It is Kovek crafts and academia that are the main draws to seek them out. Many an engineer, aspiring mage, or artificer has sought them out over the centuries, or today attends the grand university they established in their capital city, [Hévíz].
+
+**Ability Score Increase.**
+: Your Intelligence score increases by 2.
+
+### Lohin
+Lohin Sarkany are by far the rarest of the four breeds. Their silvery-white scales blend in well with the ice and snow of the far reaches of the Sanghar Desert and the Käärmeissä Peninsula. They are a hardy people, and many have moved on to other worlds, leaving just a few behind on Ter.
+
+Their height ranges from between five and a half and six and a half feet.
+
+**Ability Score Increase.**
+: Your Constitution score increases by 2.
+
+**Snowblind.**
+: You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+**Wild Survivors.**
+: You gain advantage to Survival checks when not near centers of population.
+
+TODO: names
 
 <!-- organization: links below -->
 [Commonwealth]: #TODO
 [discovery of life on Europa]: #TODO
+[Hévíz]: #TODO
+[human god]: #TODO
 [Proxima Panthi]: #TODO
 [timeline-now]: #TODO
 [timeline-ftl]: #TODO
