@@ -18,5 +18,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # Other files
-source/node_modules/
-source/build/
+node_modules/
