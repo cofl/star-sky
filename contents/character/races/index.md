@@ -19,12 +19,12 @@ Europans are the newest members of the [Commonwealth]. Hailing from the frigid o
 Humans are the traditional masters of much of Ter, and one of the three founding races of the [Commonwealth]. They are a restless people, who long ago crossed the great plains, charted the forests and vales, and took to the seas in great ships of discovery and war. An energy, a love of adventure, sang from every page of their history.
 
 ## Ngema
-
+TODO
 
 <!-- organization: links below -->
-[Commonwealth]: #TODO
-[first contant]: #TODO
-[planet-europa]: #TODO
-[planet-ngema]: #TODO
-[planet-jun]: #TODO
-[timeline]: #TODO
+[Commonwealth]: /setting/factions/commonwealth/
+[first contant]: /setting/timeline/first-contact.md
+[planet-europa]: /setting/locations/jun/europa/
+[planet-ngema]: /setting/locations/ngema/
+[planet-jun]: /setting/locations/jun/
+[timeline]: /setting/timeline/

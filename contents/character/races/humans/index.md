@@ -1,7 +1,7 @@
 ---
 title: Humans
 template: index.jade
-uplink: ./
+uplink: ../
 ---
 
 # Humans
@@ -22,7 +22,7 @@ With their penchant for migration and conquest, humans are more physically diver
 Humans are the most adaptable and ambitious people on Ter. They have widely varying tastes, morals, and customs in the many different lands where they have settled. When they settle, though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a short life, but a human nation or culture preserves traditions with origins far beyond the reach of any single human’s memory. They live fully in the present—making them well suited to the adventuring life—but also plan for the future, striving to leave a lasting legacy. Individually and as a group, humans are adaptable opportunists, and they stay alert to changing political and social dynamics.
 
 ### Masters of the Commonwealth
-There's a certain respect one has to give the humans: they're living proof that if you throw if enough shit at the wall, some of it will stick. The greatest leaders of Ter and of the Commonwealth have all been human; it's mostly *human* colonists settling across the far-flung worlds around other stars (the the [Ngema](./#ngema) will give them a run for their money yet).
+There's a certain respect one has to give the humans: they're living proof that if you throw if enough shit at the wall, some of it will stick. The greatest leaders of Ter and of the Commonwealth have all been human; it's mostly *human* colonists settling across the far-flung worlds around other stars (the the [Ngema](../ngema/) will give them a run for their money yet).
 
 **Elves.**
 : "Bah, what good are they? They're not better than us, no matter how much they think they are, gene-forging or no. Most of them seem fine, I guess, if they keep themselves, but there's always the ones that want to prove themselves..."
@@ -62,4 +62,4 @@ It’s hard to make generalizations about humans, but your human character has t
 <!-- organization: links -->
 [Ngema]: /setting/locations/ngema/
 [Commonwealth]: /setting/factions/commonwealth/
-[sarkany]: ./#sarkany
+[sarkany]: ../sarkany/

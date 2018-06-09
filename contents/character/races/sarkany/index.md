@@ -1,7 +1,7 @@
 ---
 title: Sarkany
 template: index.jade
-uplink: ./
+uplink: ../
 ---
 
 # Sarkany
@@ -16,7 +16,7 @@ uplink: ./
 > 
 > <span class="quote-author">"The Adversary" by Aaron C. Evans</span>
 
-The Sarkany are the second and oldest race native to [Ter], and one of the three founding races of the [Commonwealth]. The lands [humans](./#human) dare not tread, you will find them: from the deepest caverns to the dells and foothills of the great mountains. The stone is their birthright, and from it they wrought the greatest works of engineering [Ter] would ever see. Even after the [discovery of life on Europa], the Sarkany remained the most reknowned craftsmen of the modern age.
+The Sarkany are the second and oldest race native to [Ter], and one of the three founding races of the [Commonwealth]. The lands [humans](../human/) dare not tread, you will find them: from the deepest caverns to the dells and foothills of the great mountains. The stone is their birthright, and from it they wrought the greatest works of engineering [Ter] would ever see. Even after the [discovery of life on Europa], the Sarkany remained the most reknowned craftsmen of the modern age.
 
 Despite on many occasions crossing swords with humans, the age-old foes have laid aside their weapons and begun the building of the [greatest empire][Commonwealth] known to the [Veil]. Without the aid of Sarkany academics, it could have taken two or three generations more for humans to reach the stars on their own. Sarkany universities, such as the [University of Hévíz], are the greatest centers of learning in the [Commonwealth], teaching millions of students every year from all the vast reaches of the colonies and the core worlds alike, and pushing the bounds of what is possible ever forward.
 
@@ -130,16 +130,16 @@ The Lohin language, Hel, while related to the Sarkany tongue, is softer and simp
 **Note**: If looking for further names, these were all drawn from a Finnish list.
 
 <!-- organization: links below -->
-[Commonwealth]: #TODO
-[discovery of life on Europa]: #TODO
-[Hévíz]: #TODO
-[humans]: #TODO
-[human god]: #TODO
-[Myrskynkala]: #TODO
-[Proxima Panthi]: #TODO
-[timeline-now]: #TODO
+[Commonwealth]: /setting/factions/commonwealth/
+[discovery of life on Europa]: /setting/timeline/#first-contact-with-europa
+[Hévíz]: /setting/locations/ter/#Hévíz
+[humans]: ./#humans
+[human god]: /settings/mythos/gods/#human-gods
+[Myrskynkala]: /settings/mythos/gods/#Myrskynkala
+[Proxima Panthi]: /settings/locations/systems/proxima-panthi/
+[timeline-now]: /settings/timeline/#present-day
 [the time we set foot on their world]: /setting/timeline/#2103
-[timeline-ftl]: #TODO
-[Ter]: #TODO
-[University of Hévíz]: #TODO
-[Veil]: #TODO
+[timeline-ftl]: /settings/timeline/#faster-than-light-travel-achieved
+[Ter]: /settings/locations/ter/
+[University of Hévíz]: /settings/factions/minor/#university-of-hévíz
+[Veil]: /settings/locations/misc/#the-veil

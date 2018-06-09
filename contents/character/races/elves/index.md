@@ -1,14 +1,14 @@
 ---
 title: Elves
 template: index.jade
-uplink: ./
+uplink: ../
 ---
 
 # Elves
 <!--{#top.center}-->
 <div class="subtitle">Sweat our pride, Blood our bane.</div>
 
-The Elves are the youngest of the five races, but the third to join the ranks of the [Commonwealth]. A result of three hundred years of genetic modification and magical tampering, this human subrace emerged as a species in its own right shortly after [first contact] with [Ngema] in [2103](/setting/timeline/#2103). Oft looked down upon by the traditional masters of Ter, the [Humans] and [Sarkany], elves know they have to work hard to prove they deserve their place in the stars.
+The Elves are the youngest of the five races, but the third to join the ranks of the [Commonwealth]. A result of three hundred years of genetic modification and magical tampering, this human subrace emerged as a species in its own right shortly after [first contact] with [Ngema] in [2103]. Oft looked down upon by the traditional masters of Ter, the [Humans] and [Sarkany], elves know they have to work hard to prove they deserve their place in the stars.
 
 ## Physical Features
 Elves, though similar to humans in may regards, are distinguished by their elongated features, with pointed ears and narrow noses. The average standsfrom just over five to nearly seven feet tall, taller on average than humans of the same age, but weighing a mere 100 to 150 pounds. Males and females are about the same height, and males are only marginally heavier than females.
@@ -115,8 +115,9 @@ The most common variety of elves are called "Variant A" by the scientific commun
 : You move like lightning, disappearing and reappearing in an unoccupied space within 15 feet as a bonus action. After using this ability, you cannot use it again until you have taken a short or long rest.
 
 <!-- organization: links -->
+[2103]: /setting/timeline/#2103
 [Ngema]: /setting/locations/ngema/
 [Commonwealth]: /setting/factions/commonwealth/
-[first contact]: /setting/timeline/first-contact.html
-[humans]: ./#human
-[sarkany]: ./#sarkany
+[first contact]: /setting/timeline/#first-contact-with-ngema
+[humans]: ../humans/
+[sarkany]: ../sarkany/
