@@ -132,14 +132,14 @@ The Lohin language, Hel, while related to the Sarkany tongue, is softer and simp
 <!-- organization: links below -->
 [Commonwealth]: /setting/factions/commonwealth/
 [discovery of life on Europa]: /setting/timeline/#first-contact-with-europa
-[Hévíz]: /setting/locations/ter/#Hévíz
+[Hévíz]: /setting/locations/sol/ter/#Hévíz
 [humans]: ./#humans
 [human god]: /settings/mythos/gods/#human-gods
 [Myrskynkala]: /settings/mythos/gods/#Myrskynkala
-[Proxima Panthi]: /settings/locations/systems/proxima-panthi/
+[Proxima Panthi]: /settings/locations/proxima-panthi/
 [timeline-now]: /settings/timeline/#present-day
 [the time we set foot on their world]: /setting/timeline/#2103
 [timeline-ftl]: /settings/timeline/#faster-than-light-travel-achieved
-[Ter]: /settings/locations/ter/
+[Ter]: /settings/locations/sol/ter/
 [University of Hévíz]: /settings/factions/minor/#university-of-hévíz
 [Veil]: /settings/locations/misc/#the-veil

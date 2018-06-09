@@ -116,7 +116,7 @@ The most common variety of elves are called "Variant A" by the scientific commun
 
 <!-- organization: links -->
 [2103]: /setting/timeline/#2103
-[Ngema]: /setting/locations/ngema/
+[Ngema]: /setting/locations/sol/ngema/
 [Commonwealth]: /setting/factions/commonwealth/
 [first contact]: /setting/timeline/#first-contact-with-ngema
 [humans]: ../humans/
