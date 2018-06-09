@@ -6,7 +6,7 @@ uplink: ../
 
 # Races of the Commonwealth
 
-## Sarkany
+## [Sarkany](./sarkany.html)
 The Sarkany are the people native to the mountains and the deep places of Ter, beautiful folk known for their iridescent scales that glitter in the pale glow of the lava flows. Though they've crossed spears, swords, and cannonfire with the other races of Ter many a time, after the spread of globalization and the industrial revolution they have become one of the dominant races of the [Commonwealth].
 
 ## [Elf](./elves.html)
