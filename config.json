@@ -12,6 +12,7 @@
     "./plugins/toc-generator.js"
   ],
   "output": "../output",
+  "baseUrl": "/star-sky/",
   "directory-helper": {
     "template": "directory.jade"
   },

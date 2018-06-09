@@ -4,14 +4,12 @@ html(lang="en")
     head
         include mixins/html-head.jade
         title= page.title
-        if(page.metadata.leipzig)
-            include mixins/leipzig.jade
     body
         div(id="table-of-contents")
             div(class="toc-scroller")
                 h1 Table of Contents
                 div(class="toc-header")
-                    a(href="/") home
+                    a(href = env.config.baseUrl) home
                         span(class="fa fa-home")
                     - var directory = env.helpers.directory.directoryListingUrl(page)
                     if directory != null
