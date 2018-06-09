@@ -118,6 +118,14 @@ a:hover {
   color: #fafafa;
   transition: all 0.2s ease;
 }
+h1#top {
+  margin: 0 !important;
+  padding: 0 !important;
+  text-indent: 0 !important;
+}
+h1#top a {
+  display: none;
+}
 h1,
 h2,
 h3,
