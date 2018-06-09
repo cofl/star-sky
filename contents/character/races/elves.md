@@ -1,6 +1,7 @@
 ---
 title: Elves
 template: index.jade
+uplink: ./
 ---
 
 # Elves

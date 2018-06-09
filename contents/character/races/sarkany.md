@@ -1,6 +1,7 @@
 ---
 title: Sarkany
 template: index.jade
+uplink: ./
 ---
 
 # Sarkany
@@ -38,7 +39,17 @@ Sarkany have personal names given at birth, and inherit the family and household
 
 **Note**: If looking for further names, these were all drawn from a Hungarian list.
 
-### TODO: opinion of other races
+### Ad Astra Per Aspera
+Sarkany never give up, not for good. They know when to push, when to pull back, and most importantly, how to do both and still come out on top. While they're content to let [humans] do the busy work of running the [Commonwealth], they've always set their sights highter.
+
+**Humans.**
+: "Humans... as a whole? They're decent, even if they move a bit fast. Humans have ambition, but they tend to blindly charge, and they aren't the most loyal of compatriots. Still, if you need a job done, they're the first to ask."
+
+**Elves.**
+: "These elves, they are humans by a different name, no? I do not understand why they are disliked so by the other circles of humanity. The hardest workers I've ever met among the humans have been elves, though sadly the majority either don't show the same drive, or have perverted it for disagreeable ends."
+
+**Ngema.**
+: "My grandfather would tell me stories of the Ngema from [the time we set foot on their world]. They were quaint then, barely industrial, reliant on their mages for their strength &mdash; 'by the ancestors their mages were strong'. They've made quick friends with the rest of us, and to be frank I'm not sure the [Commonwealth] would still be in one piece if not for their skills at the negotiating table &mdash; though that they nearly outnumber the humans may also be of help."
 
 ## Physical Features and Traits
 The Sarkany are oft described as lizard-like, with snouts like a drake, and all over adorned with metallic scales that shimmer in the pale glow of the lava flows and the bright glare of the mid-day sun. Each subrace of Sarkany can be identified by the color of their scales. Height varies between the varieties, some averaging a few inches shorter than the average human, and others towering head-and-a-half higher. Regardless of height, you are a Medium creature.
@@ -100,20 +111,34 @@ Their height ranges from between five and a half and six and a half feet.
 : Your Constitution score increases by 2.
 
 **Snowblind.**
-: You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+: You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. This replaces the standard dark vision Sarkany have.
 
-**Wild Survivors.**
-: You gain advantage to Survival checks when not near centers of population.
+**Survivors.**
+: You gain advantage to Survival checks.
 
-TODO: names
+#### Divergent History
+In ancient days, what would become the Kirmis and Selvani households and their followers split off from the bulk of the Sarkany, following a vision from the god [Myrskynkala]. They settled far from the caves and mountains of their brethren, in the forests and tundra beyond the Sanghar Desert. Over thousands of years, their tongue and culture have diverged noticably from those of their southern cousins.
+
+Lohin religion is still based primarily around the worship of the ancestors, as with those of the Titan's Shield, but the god [Myrskynkala] and its court plays a major role as guardian, protector, and guide to the spirits of the dead as they bargain with other great and mysterious powers in the beyond.
+
+The Lohin language, Hel, while related to the Sarkany tongue, is softer and simpler phonologically. Examples of Lohin names, given at birth or inherited from the family and household, are:
+
+- **Male Names:** Aatto, Eerikki, Jarmo, Joni, Jyrki, Kim, Pauli, Reko, Riku, Sampo, Taavi, Tyko, Yrjänä
+- **Female Names:** Adele, Aina, Anniina, Eerika, Ella, Hillevi, Ilona, Maria, Ritva, Ruut, Päivä, Saana, Sylvi, Tyyne
+- **Family/Household Names:** Aalto, Jokela, Kirmis, Linna, Nikula, Nurmi, Nylund, Mäkinen, Pentti, Peura, Rinne, Ruoho, Takala
+
+**Note**: If looking for further names, these were all drawn from a Finnish list.
 
 <!-- organization: links below -->
 [Commonwealth]: #TODO
 [discovery of life on Europa]: #TODO
 [Hévíz]: #TODO
+[humans]: #TODO
 [human god]: #TODO
+[Myrskynkala]: #TODO
 [Proxima Panthi]: #TODO
 [timeline-now]: #TODO
+[the time we set foot on their world]: /setting/timeline/#2103
 [timeline-ftl]: #TODO
 [Ter]: #TODO
 [University of Hévíz]: #TODO

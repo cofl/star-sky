@@ -44,7 +44,7 @@ html(lang="en")
             div(id="toc-scroller")
                 h1 Table of Contents
                 div(class="toc-header")
-                    a(href="/") home
+                    a(href = env.config.baseUrl) home
                         span(class="fa fa-home")
                     if !page.metadata.nouplink
                         a(href=page.metadata.uplink || "..") Up

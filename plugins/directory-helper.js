@@ -57,7 +57,7 @@ module.exports = function(env, callback){
         },
         files: (directoryListing) => directoryListing.filter((it) => it.isFile),
         directories: (directoryListing) => directoryListing.filter((it) => !it.isFile),
-        parentFolderName: (page) => titleCase(leafPath(splitPath(normalizePath(page.filename)))) || 'root',
+        parentFolderName: (page) => ('metadata' in page && 'parent-name' in page.metadata) ? page.metadata['parent-name'] : titleCase(leafPath(splitPath(normalizePath(page.filename)))) || 'root',
         directoryListingUrl: (page) => ('metadata' in page && 'uplink' in page.metadata) ? page.metadata.uplink : getDirectoryListingUrl(page.parent, splitPath(normalizePath(page.filename)))
     }
     env.helpers.titleCase = titleCase

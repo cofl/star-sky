@@ -1,6 +1,7 @@
 ---
 title: Races of the Commonwealth
 template: index.jade
+uplink: ../
 ---
 
 # Races of the Commonwealth

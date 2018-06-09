@@ -1,6 +1,7 @@
 ---
 title: Humans
 template: index.jade
+uplink: ./
 ---
 
 # Humans

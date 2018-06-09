@@ -1,4 +1,5 @@
 {
     "template": "directory.jade",
-    "nouplink": true
+    "nouplink": true,
+    "parent-name": "Star Sky"
 }
