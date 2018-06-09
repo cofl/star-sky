@@ -115,9 +115,9 @@ The most common variety of elves are called "Variant A" by the scientific commun
 : You move like lightning, disappearing and reappearing in an unoccupied space within 15 feet as a bonus action. After using this ability, you cannot use it again until you have taken a short or long rest.
 
 <!-- organization: links -->
-[2103]: /setting/timeline/#2103
-[Ngema]: /setting/locations/sol/ngema/
-[Commonwealth]: /setting/factions/commonwealth/
-[first contact]: /setting/timeline/#first-contact-with-ngema
+[2103]: /star-sky/setting/timeline/#2103
+[Ngema]: /star-sky/setting/locations/sol/ngema/
+[Commonwealth]: /star-sky/setting/factions/commonwealth/
+[first contact]: /star-sky/setting/timeline/#first-contact-with-ngema
 [humans]: ../humans/
 [sarkany]: ../sarkany/

@@ -60,6 +60,6 @@ It’s hard to make generalizations about humans, but your human character has t
 - **Weight** = `110 lbs + (3d10dh1 pounds × 2d4)`
 
 <!-- organization: links -->
-[Ngema]: /setting/locations/sol/ngema/
-[Commonwealth]: /setting/factions/commonwealth/
+[Ngema]: /star-sky/setting/locations/sol/ngema/
+[Commonwealth]: /star-sky/setting/factions/commonwealth/
 [sarkany]: ../sarkany/

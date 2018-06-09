@@ -6,7 +6,7 @@ uplink: ../
 
 # Sarkany
 <!--{#top.center}-->
-<div class="subtitle">Iron Heart, Distant Reach.</div>
+<div class="subtitle">A Heart of Iron</div>
 
 > Her father stood at the end of the stone walk leading up to the house, unmoving. The scales of his face had grown paler around the edges, but Jószua of No-House still looked as if he could wrestle down a dire bear himself. His familiar well-worn armor was gone, replaced by blackened plate with bright silvery tracings. There was a blazon on his arm as well, the mark of some foreign house. The sword at his back was the same, though, the one he had carried since even before...
 > 
@@ -130,16 +130,16 @@ The Lohin language, Hel, while related to the Sarkany tongue, is softer and simp
 **Note**: If looking for further names, these were all drawn from a Finnish list.
 
 <!-- organization: links below -->
-[Commonwealth]: /setting/factions/commonwealth/
-[discovery of life on Europa]: /setting/timeline/#first-contact-with-europa
-[Hévíz]: /setting/locations/sol/ter/#Hévíz
+[Commonwealth]: /star-sky/setting/factions/commonwealth/
+[discovery of life on Europa]: /star-sky/setting/timeline/#first-contact-with-europa
+[Hévíz]: /star-sky/setting/locations/sol/ter/#Hévíz
 [humans]: ./#humans
-[human god]: /settings/mythos/gods/#human-gods
-[Myrskynkala]: /settings/mythos/gods/#Myrskynkala
-[Proxima Panthi]: /settings/locations/proxima-panthi/
-[timeline-now]: /settings/timeline/#present-day
-[the time we set foot on their world]: /setting/timeline/#2103
-[timeline-ftl]: /settings/timeline/#faster-than-light-travel-achieved
-[Ter]: /settings/locations/sol/ter/
-[University of Hévíz]: /settings/factions/minor/#university-of-hévíz
-[Veil]: /settings/locations/misc/#the-veil
+[human god]: /star-sky/setting/mythos/gods/#human-gods
+[Myrskynkala]: /star-sky/setting/mythos/gods/#Myrskynkala
+[Proxima Panthi]: /star-sky/setting/locations/proxima-panthi/
+[timeline-now]: /star-sky/setting/timeline/#present-day
+[the time we set foot on their world]: /star-sky/setting/timeline/#2103
+[timeline-ftl]: /star-sky/setting/timeline/#faster-than-light-travel-achieved
+[Ter]: /star-sky/setting/locations/sol/ter/
+[University of Hévíz]: /star-sky/setting/factions/minor/#university-of-hévíz
+[Veil]: /star-sky/setting/locations/misc/#the-veil
