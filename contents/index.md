@@ -1,6 +1,7 @@
 ---
 title: Star Sky Campaign Notes
 template: index.jade
+uplink: ./directory.html
 ---
 
 # Star Sky
