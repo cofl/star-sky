@@ -22,7 +22,7 @@ Despite on many occasions crossing swords with humans, the age-old foes have lai
 
 Sarkany can live to be more than 300 years old, so the oldest living sarkany often remember a very different world. For example, some of the oldest sarkany alive [today][timeline-now] can recall the day the first faster-than-light ship made [the first trip][timeline-ftl] to the system of [Proxima Panthi], over two hundred years ago.
 
----
+## Culture
 
 To any Sarkany, the good of the household is more important than life itself. Sarkany owe their devotion and respect to their household above all else, even the gods. Each sarkanis' conduct reflects on the honor of their house, and bringing dishonor to the house can result in expulsion and exile.
 
@@ -132,7 +132,7 @@ The Lohin language, Hel, while related to the Sarkany tongue, is softer and simp
 <!-- organization: links below -->
 [Commonwealth]: /star-sky/setting/factions/commonwealth/
 [discovery of life on Europa]: /star-sky/setting/timeline/#first-contact-with-europa
-[Hévíz]: /star-sky/setting/locations/sol/ter/#Hévíz
+[Hévíz]: /star-sky/setting/location/aster/ter/#Hévíz
 [humans]: ./#humans
 [human god]: /star-sky/setting/mythos/gods/#human-gods
 [Myrskynkala]: /star-sky/setting/mythos/gods/#Myrskynkala
@@ -140,6 +140,6 @@ The Lohin language, Hel, while related to the Sarkany tongue, is softer and simp
 [timeline-now]: /star-sky/setting/timeline/#present-day
 [the time we set foot on their world]: /star-sky/setting/timeline/#2103
 [timeline-ftl]: /star-sky/setting/timeline/#faster-than-light-travel-achieved
-[Ter]: /star-sky/setting/locations/sol/ter/
+[Ter]: /star-sky/setting/locations/aster/ter/
 [University of Hévíz]: /star-sky/setting/factions/minor/#university-of-hévíz
 [Veil]: /star-sky/setting/locations/misc/#the-veil

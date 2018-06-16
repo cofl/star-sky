@@ -8,7 +8,7 @@ uplink: ../
 <!--{#top.center}-->
 <div class="subtitle">Sweat our pride, Blood our bane.</div>
 
-The Elves are the youngest of the five races, but the third to join the ranks of the [Commonwealth]. A result of three hundred years of genetic modification and magical tampering, this human subrace emerged as a species in its own right shortly after [first contact] with [Ngema] in [2103]. Oft looked down upon by the traditional masters of Ter, the [Humans] and [Sarkany], elves know they have to work hard to prove they deserve their place in the stars.
+The Elves are the youngest of the five races, and despite hailing from [Ter],are the first to join the ranks of the [Commonwealth] after its founding. A result of three hundred years of genetic modification and magical tampering, this human subrace was identified as a species in its own right shortly after [first contact] with [Ngema] in [2103]. Oft looked down upon by the traditional masters of Ter, the [Humans] and [Sarkany], elves know they have to work hard to prove they deserve their place in the stars.
 
 ## Physical Features
 Elves, though similar to humans in many regards, are distinguished by their elongated features, with pointed ears and narrow noses. The average standsfrom just over five to nearly seven feet tall, taller on average than humans of the same age, but weighing a mere 100 to 150 pounds. Males and females are about the same height, and males are only marginally heavier than females.
@@ -116,8 +116,9 @@ The most common variety of elves are called "Variant A" by the scientific commun
 
 <!-- organization: links -->
 [2103]: /star-sky/setting/timeline/#2103
-[Ngema]: /star-sky/setting/locations/sol/ngema/
+[Ngema]: /star-sky/setting/locations/aster/ngema/
 [Commonwealth]: /star-sky/setting/factions/commonwealth/
 [first contact]: /star-sky/setting/timeline/#first-contact-with-ngema
 [humans]: ../humans/
 [sarkany]: ../sarkany/
+[Ter]: /star-sky/setting/locations/aster/ter/

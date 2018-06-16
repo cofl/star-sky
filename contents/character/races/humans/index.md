@@ -43,7 +43,7 @@ It’s hard to make generalizations about humans, but your human character has t
 : Your ability scores each increase by 1.
 
 **Age.**
-: Humans reach adulthood in their late teens and around a century.
+: Humans reach adulthood in their late teens and live around a century.
 
 **Alignment.**
 : Humans tend toward lawful, but there is no particular alignment that describes all. The best and the worst are found among them.
@@ -55,11 +55,11 @@ It’s hard to make generalizations about humans, but your human character has t
 : Your base walking speed is 30 feet.
 
 #### Rolling for Height and Weight
-
-- **Height** = `4'10" + 3d10dh1 inches`
-- **Weight** = `110 lbs + (3d10dh1 pounds × 2d4)`
+- **Modifier** = `3d10dh1`
+- **Height** = `4'10" + Modifier inches`
+- **Weight** = `110 lbs + (Modifier pounds × 2d4)`
 
 <!-- organization: links -->
-[Ngema]: /star-sky/setting/locations/sol/ngema/
+[Ngema]: /star-sky/setting/locations/aster/ngema/
 [Commonwealth]: /star-sky/setting/factions/commonwealth/
 [sarkany]: ../sarkany/
