@@ -83,7 +83,7 @@ The Dalish Sarkany are the most common on the surface of and beyond Ter; long ag
 Dalish Sarkany are known for their skill as sorcerers and diplomats.
 
 **Ability Score Increase.**
-: Your Charisma score increases by 2. Your Strength is increased by 1 instead of 2.
+: Your Charisma score increases by 2.
 
 ### Vasak
 Moving further into the mountains, Vasak Sarkany are most common here. They tend to be taller than their Dalish cousins, between under six and under seven feet, and their scales take a dull grey to iron tone. Vasak mercenaries were highly sought after for their strength, durability, and aptitude with the divine, which was not hampered by their armor.
@@ -100,7 +100,7 @@ Kovek Sarkany claim to be the eldermost of the Sarkany breeds, and stake their c
 It is Kovek crafts and academia that are the main draws to seek them out. Many an engineer, aspiring mage, or artificer has sought them out over the centuries, or today attends the grand university they established in their capital city, [Hévíz].
 
 **Ability Score Increase.**
-: Your Intelligence score increases by 2. Your Strength is increased by 1 instead of 2.
+: Your Intelligence score increases by 2.
 
 ### Lohin
 Lohin Sarkany are by far the rarest of the four breeds. Their silvery-white scales blend in well with the ice and snow of the far reaches of the Sanghar Desert and the Käärmeissä Peninsula. They are a hardy people, and many have moved on to other worlds, leaving just a few behind on Ter.

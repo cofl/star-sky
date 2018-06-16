@@ -11,7 +11,7 @@ uplink: ../
 The Elves are the youngest of the five races, but the third to join the ranks of the [Commonwealth]. A result of three hundred years of genetic modification and magical tampering, this human subrace emerged as a species in its own right shortly after [first contact] with [Ngema] in [2103]. Oft looked down upon by the traditional masters of Ter, the [Humans] and [Sarkany], elves know they have to work hard to prove they deserve their place in the stars.
 
 ## Physical Features
-Elves, though similar to humans in may regards, are distinguished by their elongated features, with pointed ears and narrow noses. The average standsfrom just over five to nearly seven feet tall, taller on average than humans of the same age, but weighing a mere 100 to 150 pounds. Males and females are about the same height, and males are only marginally heavier than females.
+Elves, though similar to humans in many regards, are distinguished by their elongated features, with pointed ears and narrow noses. The average standsfrom just over five to nearly seven feet tall, taller on average than humans of the same age, but weighing a mere 100 to 150 pounds. Males and females are about the same height, and males are only marginally heavier than females.
 
 Being drawn from a common stock, nearly all elves have the same homogenous caramel skin tone. The most common hair colors are blacks and browns, though coppery reds, metallic blondes, and deep blue-greens are not unheard of.
 
@@ -32,7 +32,7 @@ Holding the status of the youngest and weakest of the five races of the [Commonw
 
 > "His boots thundered, e'ry step he took, I swea', the Reaper 'imself! Karen, Jimmy, Cap'n, he lined 'em all up and spiked 'em right through, I's scared stiff I was, coul'n't even look, then he steps right up to me&mdash; steps right up t'me 'e does and 'e says, he asks me "Sharp-ear. You with them?"
 > 
-> "Now I jus', I jus' shake my head 'n' he sighs, like, 'm not sure if he's gon' run me through too, or wot, 'n he says then "Sharp-ear to sharp-ear, tell them this: there's always a place for the oppressed in the crew of the *Fire and Fury*. The out-modes last days on top are here."
+> "Now I jus', I jus' shake my head 'n' he sighs, like, 'm not sure if he's gon' run me through too, or wot, 'n he says then "Sharp-ear to sharp-ear, tell them this: there's always a place for the oppressed in the crew of the *Fire and Fury*. The mucks' last days on top are here."
 > <span class="quote-author">Audio log transmitted by MFV Big Sky, ship presumed lost with all hands</span>
 
 ### On the Outside
