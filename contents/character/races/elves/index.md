@@ -51,7 +51,7 @@ Despite having been human once, elves are held in lower standing than most other
 Your elf character has a variety of natural abilities, the result of hundreds of years of tweaking and hard work.
 
 **Ability Score Increase.**
-: You may increase any three ability scores by 1, or one ability score by 2 and another by one.
+: You may increase any three ability scores by 1, or one ability score by 2 and another by 1.
 
 **Age.**
 : Elves reach adulthood at about the same age as humans, though unlike their counterparts from the stories of old, they do not live longer than their human origins; in most cases, elves actually tend to pass on average six to seven years sooner than humans.

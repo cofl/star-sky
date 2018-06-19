@@ -1,6 +1,7 @@
 ---
 title: Ngema
 template: index.jade
+uplink: ../
 ---
 
 # Ngema
@@ -16,7 +17,7 @@ The Ngema hail from the world [Ngema][planet-ngema], and are one of the three fo
 > "Pellu turned over in their sleep, holding the blanket tight. Their worries would wait 'til the morrow."
 > <span class="quote-author">"The Furthest Shore" by &#9608;&#9608;&#9608;&#9608;&#9608; &#9608;&#9608;&#9608; &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;,<br/>executed for crimes against the king and people of Polibai.</span>
 
-## Physical Features and Traits
+## Physical Features
 The Ngema are a cat-like race. Despite the numerous varieties, though, from all across [the world][planet-ngema], most Ngema are about the same &mdash; that is to say, there is no typical Ngema, but there are groups that look similar. An individual can stand from 3 and a half feet to around 5 feet tall, and usually weighs from 60 to 130 pounds. Ngema coats vary in pattern and coloration depending on race, but the flesh underneath is always a pale pink. Males tend to be taller than females, rarely standing below 4 feet. Ngema reach adulthood in their early teens and typically live for around 75 years, a drastic improvement from their pre-industrial 40-year lifespan.
 
 ## Variety in All Things
@@ -35,13 +36,13 @@ Where the [humans] rule the [Commonwealth] with a vision in mind, it is often th
 : "Sarkany look like everything that make humans not like us taken to an extreme. Their scales are shiny, but it's a dull glitter. They seem so distant and aloof, but at least they know how to respect where they came from."
 
 **Europans.**
-: "Wha! They're so squishy! It's hard to believe they actually built everything they did down there under the Europan ice sheets, but it's kinda cool, right? If there's a Europan engineer on my side, I'm sure even if something breaks, we'll be back up and running in no time."
+: "Wha! They're so squishy! It's hard to believe they actually built everything they did down there under the Europan ice sheets, but it's kinda cool, right? I really don't get them, though. I can't ever tell what they're thinking."
 
 ## Ngema Traits
 It's hard to make generalizations about humans, but your ngeman character has these traits.
 
 **Ability Score Increase.**
-: Your dexterity score increases by 2, and your strength score decreases by 1.
+: Your dexterity score increases by 1, and either your intelligence, wisdom, or charisma score increase by 2.
 
 **Age.**
 : Ngema reach adulthood in their early teens and live around 75 years.
@@ -59,7 +60,10 @@ It's hard to make generalizations about humans, but your ngeman character has th
 : By the size of your ears and the structure of your eyes, your race is finely tuned to notice things. You gain proficiency to perception checks and have advantage on perception checks to listen.
 
 **Cat-Eyed.**
-: You can see in dim light within 30 feet of you as if it were bright light, and in darkness within 10 feet of you as if it were dim light.
+: You can see in dim light within 30 feet of you as if it were bright light.
+
+**Lucky.**
+: When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
 
 #### Rolling for Height and Weight
 
