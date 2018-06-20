@@ -16,6 +16,7 @@ The Ngema hail from the world [Ngema][planet-ngema], and are one of the three fo
 > 
 > "Pellu turned over in their sleep, holding the blanket tight. Their worries would wait 'til the morrow."
 > <span class="quote-author">"The Furthest Shore" by &#9608;&#9608;&#9608;&#9608;&#9608; &#9608;&#9608;&#9608; &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;,<br/>executed for crimes against the king and people of Polibai.</span>
+> <!--{blockquote:.quote}-->
 
 ## Physical Features
 The Ngema are a cat-like race. Despite the numerous varieties, though, from all across [the world][planet-ngema], most Ngema are about the same &mdash; that is to say, there is no typical Ngema, but there are groups that look similar. An individual can stand from 3 and a half feet to around 5 feet tall, and usually weighs from 60 to 130 pounds. Ngema coats vary in pattern and coloration depending on race, but the flesh underneath is always a pale pink. Males tend to be taller than females, rarely standing below 4 feet. Ngema reach adulthood in their early teens and typically live for around 75 years, a drastic improvement from their pre-industrial 40-year lifespan.
@@ -42,7 +43,7 @@ Where the [humans] rule the [Commonwealth] with a vision in mind, it is often th
 It's hard to make generalizations about humans, but your ngeman character has these traits.
 
 **Ability Score Increase.**
-: Your dexterity score increases by 1, and either your intelligence, wisdom, or charisma score increase by 2.
+: Your dexterity score increases by 1, and either your intelligence, wisdom, or charisma score increase by 1.
 
 **Age.**
 : Ngema reach adulthood in their early teens and live around 75 years.

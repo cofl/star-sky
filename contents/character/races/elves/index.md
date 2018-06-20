@@ -24,16 +24,19 @@ Holding the status of the youngest and weakest of the five races of the [Commonw
 > 
 > She unclipped the catch and started to rappel back down. *They said I could only do a hundred and fifty.*
 > <span class="quote-author">Iseul, hardworking elf</span>
+> <!--{blockquote:.quote}-->
 
 > "No elves allowed" read the sign by the door. Robert sighed and tightened his hat on his head, and just moved on. *Guess it's whatever's left on the ship again,* he thought to himself, failing to notice the oncoming group until they bumped into him.
 > 
 > "Watch it, sharp-ear," the kid growled at him. Robert apologized as quickly as he could, and tried to get on his way.
 > <span class="quote-author">Robert, freighter crewman</span>
+> <!--{blockquote:.quote}-->
 
 > "His boots thundered, e'ry step he took, I swea', the Reaper 'imself! Karen, Jimmy, Cap'n, he lined 'em all up and spiked 'em right through, I's scared stiff I was, coul'n't even look, then he steps right up to me&mdash; steps right up t'me 'e does and 'e says, he asks me "Sharp-ear. You with them?"
 > 
 > "Now I jus', I jus' shake my head 'n' he sighs, like, 'm not sure if he's gon' run me through too, or wot, 'n he says then "Sharp-ear to sharp-ear, tell them this: there's always a place for the oppressed in the crew of the *Fire and Fury*. The mucks' last days on top are here."
 > <span class="quote-author">Audio log transmitted by MFV Big Sky, ship presumed lost with all hands</span>
+> <!--{blockquote:.quote}-->
 
 ### On the Outside
 Despite having been human once, elves are held in lower standing than most other races. Still, they keep looking forward, and find friends in the unlikeliest of places.

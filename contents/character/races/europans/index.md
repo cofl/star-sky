@@ -12,6 +12,7 @@ Europans are the newest members of the [Commonwealth]. Hailing from the frigid o
 
 > TODO
 > <span class="quote-author">TODO</span>
+> <!--{blockquote:.quote}-->
 
 ## Physical Features
 Born under the crushing weight of a miles of water and ice, Europans are utterly alien compared to the land-dwelling races of the [Commonwealth]: amorphous, ooze-like creatures of varying size and mass, some miniscule, and others gargantuan hulks towering over the other races. Whatever the dimensions, all are extraordinarily resilient and flexible. Where one would expact a slimy jelly like the feral oozes of Ter, Europans instead have a firm surface similar in texture to a cat's tongue all over. This skin still stretches and bends with ease, though, allowing Europans to grow and retract numerous psuedopodia, though the number of them that may be used for intense actions like fighting or casting is limited by a Europan's size.

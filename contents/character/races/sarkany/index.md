@@ -15,6 +15,7 @@ uplink: ../
 > But ever scale of it, this time, seemed completely still&mdash;the indifference of a drake, even to Adél.
 > 
 > <span class="quote-author">"The Adversary" by Aaron C. Evans</span>
+> <!--{blockquote:.quote}-->
 
 The Sarkany are the second and oldest race native to [Ter], and one of the three founding races of the [Commonwealth]. The lands [humans](../human/) dare not tread, you will find them: from the deepest caverns to the dells and foothills of the great mountains. The stone is their birthright, and from it they wrought the greatest works of engineering [Ter] would ever see. Even after the [discovery of life on Europa], the Sarkany remained the most reknowned craftsmen of the modern age.
 

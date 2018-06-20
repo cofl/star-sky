@@ -14,6 +14,7 @@ Humans are the traditional masters of much of Ter, and one of the three founding
 
 > "Long into the night Liriel read, lamp glowing dim. She'd never given much thought to humans, but these stories fascinated her. In these dusty pages were tales of bold heroes, strange and fierce animals, mighty primitive gods and a hunger for progress that was part and fabric of that distand land."
 > <span class="quote-author">"Daughter of Ngem" by Elaine Cunningham</span>
+> <!--{blockquote:.quote}-->
 
 ## A Broad Spectrum
 With their penchant for migration and conquest, humans are more physically diverse than most other races of the [Commonwealth]. There is no typical human. An individual can stand from 5 feet to a little over 6 feet tall and weigh from 125 to 250 pounds. Human skin shades range from nearly black to very pale, and hair colors from black to blond (curly, kinky, or straight), but never blues or greens; males might sport facial hair that is sparse or thick. Humans reach adulthood in their late teens and typically live for around a century.
