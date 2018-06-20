@@ -75,8 +75,9 @@ Your sarkany chacater has an assortment of inborn abilities, part and parcel of 
 **Darkvision.**
 : Accustomed to life underground, or hidden in the shadows of the mountains, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-**Resistant Hide.**
+**Thick Hide.**
 : You have resistance to Fire and Cold damage.
+: Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
 ### Dalish
 The Dalish Sarkany are the most common on the surface of and beyond Ter; long ago, their founding households left the great caves for the surface, where they now populate the foothills, forests, and dells of the Titan mountain range. Dalish Sarkany are also the shortest of the Sarkany breeds, standing between five and six and a half feet tall. Their scales vary in color from a coppery brass to a patina sheen.
@@ -84,7 +85,7 @@ The Dalish Sarkany are the most common on the surface of and beyond Ter; long ag
 Dalish Sarkany are known for their skill as sorcerers and diplomats.
 
 **Ability Score Increase.**
-: Your Charisma score increases by 2.
+: Your Charisma score increases by 1.
 
 ### Vasak
 Moving further into the mountains, Vasak Sarkany are most common here. They tend to be taller than their Dalish cousins, between under six and under seven feet, and their scales take a dull grey to iron tone. Vasak mercenaries were highly sought after for their strength, durability, and aptitude with the divine, which was not hampered by their armor.
@@ -92,16 +93,13 @@ Moving further into the mountains, Vasak Sarkany are most common here. They tend
 **Ability Score Increase.**
 : Your Wisdom score increases by 1.
 
-**Thick Hide.**
-: Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
-
 ### Kovek
 Kovek Sarkany claim to be the eldermost of the Sarkany breeds, and stake their claim deep within the caverns under the Titan's Shield, the entrances of which are protected by the frigid Sanghar Desert to the north, and the towering Titan Mountains to the south. Kovek Sarkany tower over their brethren, standing between six and eight feet tall. Their scales are red, gold, or bronze.
 
 It is Kovek crafts and academia that are the main draws to seek them out. Many an engineer, aspiring mage, or artificer has sought them out over the centuries, or today attends the grand university they established in their capital city, [Hévíz].
 
 **Ability Score Increase.**
-: Your Intelligence score increases by 2.
+: Your Intelligence score increases by 1.
 
 ### Lohin
 Lohin Sarkany are by far the rarest of the four breeds. Their silvery-white scales blend in well with the ice and snow of the far reaches of the Sanghar Desert and the Käärmeissä Peninsula. They are a hardy people, and many have moved on to other worlds, leaving just a few behind on Ter.
@@ -109,7 +107,7 @@ Lohin Sarkany are by far the rarest of the four breeds. Their silvery-white scal
 Their height ranges from between five and a half and six and a half feet.
 
 **Ability Score Increase.**
-: Your Constitution score increases by 2.
+: Your Constitution score increases by 1.
 
 **Snowblind.**
 : You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. This replaces the standard dark vision Sarkany have.
