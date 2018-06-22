@@ -182,6 +182,12 @@ blockquote {
   padding: 0 15px;
   color: #777;
 }
+blockquote.quote {
+  font-style: italic;
+}
+blockquote.quote p:first-child::first-line {
+  font-variant: small-caps;
+}
 code,
 tt {
   margin: 0 2px;
