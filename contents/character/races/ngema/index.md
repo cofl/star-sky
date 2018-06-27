@@ -81,16 +81,20 @@ Irim were the height of sophistication for much of recent ngeman history. This b
 
 Irim pelts are best described as [mackerel tabby](https://en.wikipedia.org/wiki/File:Cat_November_2010-1a.jpg). Eye colors found within the Irim are almost always yellow, grey, or pale green. There are very few if any Irim mages.
 
-### Desert
-TODO
+### Ib-Bakkal
+It is not known who came first: Ib-Bakkal the desert, or Ib-Bakkal the people. Flung far south, beyond the lazy grasses of the Golden Plains, out from under the shadow of the Ib-Nali mountains, far from the salty oceans of the Kerumin and Polinate Coasts, the Ib-Bakkal stalk the sands by day and by night, building a world utterly foreign compared with any other on [Ngema][planet-ngema]. Ib-Bakkal cities are of stone and mud-brick and thin desert trees whose barkless boughs shine white in the hot sun. Despite the hue being like that of the dust itself, it is not the only color you will find in Ib-Bakkal: cloth in rich reds and golds, blues, greens, whites, and silvers &mdash; all throughout Ib-Bakkal lands they fill the dusty void.
+
+Ib-Bakkal have smooth, unpatterned fur of uniform color from pale yellow to dark gold to black. They typically have pale green and icy blue eyes, the sign of magic potential, though a rare few are brown and yellow: signs of demons' misfortune cursing the souls of the untalented to never ascend in the afterlife, but to roam the dust for eternity.
 
 ### Meric
 Meric ngema have built their civilization on the western shores of Ngema's primary continent; to many of the other breeds, they are a strange people, vast in number, with an exotic culture almost entirely unlike anywhere else on Ngema. For hundreds of years, the Merics traded their silks, teas, and innovations with the Zakhr, who would carry them all across the Golden Plains to the rest of the known world, until trade was suddenly cut off by a change in dynasty shortly before the Industrial Revolution; to this day, the Meric still lag behind the rest of Ngema in trade and export, and while interbreeding and a few adventurous souls means a number have made it off Ngema to other world, their numbers are not nearly as great as other breeds.
 
 Meric fur is typically ash-grey to golden, with few if any markings except darker points around the hands and feet.
 
-### Mountain
-TODO Nalen
+### Nalen
+Nalen had lived broken and downtrodden for hundreds of years, ruled either by their eastern overlords the Meric, or in cities on the other side of the mountains where even the skin on their back was the property of the enterprising Zakhr. The Ib-Nali Mountains are rich with iron, gold, and countless other metals and minerals; in ancient times, this was their greatest strength, but a failure to capitalize on rise of new technologies quickly found them looking up the receiving end of cannons and rifles. Though Nalen were granted equal status in the [unification of Ngema][timeline-unification], and the events that brought their downfall now near a millenium past, many of the other breeds are still dismissive. Pressure to prove themselves leads the Nalen that do leave [Ngema][planet-ngema] to leave dangerous and risky lifestyles, taking the most dangerous work and making the most of it. It is said a Nalen who hasn't any scars isn't fit to be a man. Still, for the more sensitive types, their cousins the Ib-Bakkal bear no ill will, and are eager to partner in somewhat safer endeavours... though they do prefer mages, it seems.
+
+Nalen fur is typically dark gold to black, like the Ib-Bakkal; the defining difference is that, while the Ib-Bakkal are of uniform coat, Nalen typically have spots. Nalen eyes are hues of yellow, grey, and brown.
 
 ### Schezna
 The Schezna breed of ngema arose in the north, where the great evergreen forests reached for a tundra so vast many thought it was the edge of the world. They are a hardy people, but far from simple. Contact with Irim and Zakhr to the south drove their culture to great complexity, with an entire heirarchy of nobility springing up and developing great fortress cities that would serve as trade hubs for hundreds of years: first pelts and woods, then metals mined from the many hills, then oil from even further north, where the tundra met the ice shelf of the northern sea.
@@ -98,18 +102,16 @@ The Schezna breed of ngema arose in the north, where the great evergreen forests
 Schezna fur is typically dark grey to white, with rings or spots of black to white spread all over. Like most Ngema, the majority have eyes of yellows, greys, and browns, though certain large families descended from ancient nobility and mages bear icy blue eyes.
 
 ### Zakhr
-West of the Iron Hills lie the Golden Plains, where the Zakhr ply the routes of the grass sea, carrying goods from the Irim in the east, the Nalen and Meric in the west, the Schezna to the north, and the Ib-Bakkal to the south. 
+West of the Iron Hills lie the Golden Plains, where the Zakhr ply the routes of the grass sea, carrying goods from the Irim in the east, the Nalen and Meric in the west, the Schezna to the north, and the Ib-Bakkal to the south. Many Zakhr live their lives as nomads, never staying in one city for too long: in the old days, they would lead [Bawi] caravans laden with precious trade assets through the long grass, across the rivers and through the mountains, resting only when the rains made the paths impassible; now, many a Zakhr find themselves aboard freighters and other ships as navigators, guards, and pilots.
 
-TODO
-
-### Tropical
-TODO
+Zakhr fur is typically striped with dark colors, though the base color of their coat varies from white to deep orange. Their eyes are typically yellows, greys, and icy blues: many have at least fledgling skill with magic.
 
 <!-- organization: links -->
+[Bawi]: /star-sky/setting/creatures/bawi/
 [Commonwealth]: /star-sky/setting/factions/commonwealth/
 [humans]: ../humans/
-[inner colonies]: #TODO
+[inner colonies]: /star-sky/setting/locations/#inner-colonies
 [Ter]: /star-sky/setting/locations/aster/ter/
-[timeline-unification]: #TODO
+[timeline-unification]: /star-sky/setting/timeline/#unification-of-ngema
 [planet-ngema]: /star-sky/setting/locations/aster/ngema/
 [Polin]: /star-sky/setting/locations/aster/ngema/#Polin
