@@ -157,7 +157,6 @@ table
     vertical-align: top
     border-collapse: collapse
     width: 100%
-    table-layout: fixed
     &.auto-layout
         table-layout: auto
     &.auto-wide
@@ -167,7 +166,9 @@ table
     & td, & th
         padding: 2px 6px
         vertical-align: middle
-    &.tb-center td
+    & td
+        text-align: left
+    &.tb-center td, &.tb-center th
         text-align: center
     &.row-headers
         & td:first-child, .row-header

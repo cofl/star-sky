@@ -8,9 +8,9 @@ uplink: ../
 <!--{#top.center}-->
 <div class="subtitle">Astra dēmōnstrābunt nostra pretia</div>
 
-The Ngema hail from the world [Ngema][planet-ngema], and are one of the three founding races of the [Commonwealth]. Much like the [humans], their counterparts from [Ter], the Ngema are a restless people, who rapidly spread out across the towering mountains, golden plains, uncharted forests, frigid tundras, and scorching deserts of their homeworld. Determined to prove their worth to the gods, they set out across the stormy seas, and now set out across the sea of stars, eager and willing to make their mark on history.
+The ngema hail from the world [Ngema][planet-ngema], and are one of the three founding races of the [Commonwealth]. Much like the [humans], their counterparts from [Ter], the ngema are a restless people, who rapidly spread out across the towering mountains, golden plains, uncharted forests, frigid tundras, and scorching deserts of their homeworld. Determined to prove their worth to the gods, they set out across the stormy seas, and now set out across the sea of stars, eager and willing to make their mark on history.
 
-> "Kazha tightened her grip on the pen as she pored over the map. Three more weeks until they reached where the Abyss was supposed to be. The young Schnezno glanced over her shoulder at her odd traveling companion, who by this hour was fast asleep, mouth agape, light from the lantern dancing its cage's shadows across their pale features.
+> "Kazha tightened her grip on the pen as she pored over the map. Three more weeks until they reached where the Abyss was supposed to be. The young Schezna glanced over her shoulder at her odd traveling companion, who by this hour was fast asleep, mouth agape, light from the lantern dancing its cage's shadows across their pale features.
 > 
 > "She sighed, then rose, padding over and drawing the blanket to better cover Pellu. "I swear," she exclaimed in hushed voice, "if the prince isn't to be the death of me, then surely you will." A thin but warm smile couldn't help but appear on Kazha's face. "Jeez &mdash;a thousand miles from where we started and yet you've still got that look on your face. Don't worry. We'll find a way home for you yet."
 > 
@@ -19,7 +19,7 @@ The Ngema hail from the world [Ngema][planet-ngema], and are one of the three fo
 > <!--{blockquote:.quote}-->
 
 ## Physical Features
-The Ngema are a cat-like race. Despite the numerous varieties, though, from all across [the world][planet-ngema], most Ngema are about the same &mdash; that is to say, there is no typical Ngema, but there are groups that look similar. An individual can stand from 3 and a half feet to around 5 feet tall, and usually weighs from 60 to 130 pounds. Ngema coats vary in pattern and coloration depending on race, but the flesh underneath is always a pale pink. Males tend to be taller than females, rarely standing below 4 feet. Ngema reach adulthood in their early teens and typically live for around 75 years, a drastic improvement from their pre-industrial 40-year lifespan.
+The ngema are a cat-like race. Despite the numerous varieties, though, from all across [the world][planet-ngema], most ngema are about the same &mdash; that is to say, there is no typical ngema, but there are groups that look similar. An individual can stand from 3 and a half feet to around 5 feet tall, and usually weighs from 60 to 130 pounds. Ngema coats vary in pattern and coloration depending on race, but the flesh underneath is always a pale pink. Males tend to be taller than females, rarely standing below 4 feet. Ngema reach adulthood in their early teens and typically live for around 75 years, a drastic improvement from their pre-industrial 40-year lifespan.
 
 ## Variety in All Things
 Ngema are an adaptable and ambitious people. They have widely varying tastes, morals, and customs in the many different lands where they have laid down roots. At the heart of culture and progress on Ngema are the great cities, built to last the ages, and the borders of style are still drawn from the remanants of kingdoms that lasted for centuries before [the unification of Ngema under a single flag][timeline-unification]. An individual ngema might have a short life, but a nation or culture is what binds them together, preserving what makes each people far beyond the reach of any single ngema's memory. They live in the present, with an eye for the future, but always have a foot in the past, and are unwilling to forget their heritage.
@@ -76,6 +76,33 @@ It's hard to make generalizations about humans, but your ngeman character has th
 - **Weight** = `Base Weight + Height Modifier (in pounds) × Weight Modifier`
 
 ## Kinds of Ngema
+### Irim
+Irim were the height of sophistication for much of recent ngeman history. This breed established itself along the eastern coast of Ngema's primary continent and the islands of that shore, and spreading as far west as the Iron Hills, beyond which lay the Golden Plains. Irim developed a deep heirarchy of nobility and order to govern their numerous towns and villages, all reporting to the capital city [Polin].
+
+Irim pelts are best described as [mackerel tabby](https://en.wikipedia.org/wiki/File:Cat_November_2010-1a.jpg). Eye colors found within the Irim are almost always yellow, grey, or pale green. There are very few if any Irim mages.
+
+### Desert
+TODO
+
+### Meric
+Meric ngema have built their civilization on the western shores of Ngema's primary continent; to many of the other breeds, they are a strange people, vast in number, with an exotic culture almost entirely unlike anywhere else on Ngema. For hundreds of years, the Merics traded their silks, teas, and innovations with the Zakhr, who would carry them all across the Golden Plains to the rest of the known world, until trade was suddenly cut off by a change in dynasty shortly before the Industrial Revolution; to this day, the Meric still lag behind the rest of Ngema in trade and export, and while interbreeding and a few adventurous souls means a number have made it off Ngema to other world, their numbers are not nearly as great as other breeds.
+
+Meric fur is typically ash-grey to golden, with few if any markings except darker points around the hands and feet.
+
+### Mountain
+TODO Nalen
+
+### Schezna
+The Schezna breed of ngema arose in the north, where the great evergreen forests reached for a tundra so vast many thought it was the edge of the world. They are a hardy people, but far from simple. Contact with Irim and Zakhr to the south drove their culture to great complexity, with an entire heirarchy of nobility springing up and developing great fortress cities that would serve as trade hubs for hundreds of years: first pelts and woods, then metals mined from the many hills, then oil from even further north, where the tundra met the ice shelf of the northern sea.
+
+Schezna fur is typically dark grey to white, with rings or spots of black to white spread all over. Like most Ngema, the majority have eyes of yellows, greys, and browns, though certain large families descended from ancient nobility and mages bear icy blue eyes.
+
+### Zakhr
+West of the Iron Hills lie the Golden Plains, where the Zakhr ply the routes of the grass sea, carrying goods from the Irim in the east, the Nalen and Meric in the west, the Schezna to the north, and the Ib-Bakkal to the south. 
+
+TODO
+
+### Tropical
 TODO
 
 <!-- organization: links -->
@@ -85,3 +112,4 @@ TODO
 [Ter]: /star-sky/setting/locations/aster/ter/
 [timeline-unification]: #TODO
 [planet-ngema]: /star-sky/setting/locations/aster/ngema/
+[Polin]: /star-sky/setting/locations/aster/ngema/#Polin
