@@ -231,7 +231,6 @@ table {
   vertical-align: top;
   border-collapse: collapse;
   width: 100%;
-  table-layout: fixed;
 }
 table.auto-layout {
   table-layout: auto;
@@ -247,7 +246,11 @@ table th {
   padding: 2px 6px;
   vertical-align: middle;
 }
-table.tb-center td {
+table td {
+  text-align: left;
+}
+table.tb-center td,
+table.tb-center th {
   text-align: center;
 }
 table.row-headers td:first-child,
