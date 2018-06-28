@@ -1,10 +1,10 @@
 ---
-title: Europa
+title: Aster
 template: index.jade
 uplink: ../
 ---
 
-# Europa
+# Aster
 <!--{#top.center}-->
 
 TODO

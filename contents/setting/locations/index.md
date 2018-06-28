@@ -1,3 +1,8 @@
+---
+title: Locations and Places
+template: index.jade
+---
+
 TODO
 
-# Inner Colonies
+# The Veil
