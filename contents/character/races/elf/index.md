@@ -122,6 +122,6 @@ The most common variety of elves are called "Variant A" by the scientific commun
 [Ngema]: /star-sky/setting/locations/aster/ngema/
 [Commonwealth]: /star-sky/setting/factions/commonwealth/
 [first contact]: /star-sky/setting/timeline/#first-contact-with-ngema
-[humans]: ../humans/
+[humans]: ../human/
 [sarkany]: ../sarkany/
 [Ter]: /star-sky/setting/locations/aster/ter/

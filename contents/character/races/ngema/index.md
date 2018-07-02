@@ -109,7 +109,7 @@ Zakhr fur is typically striped with dark colors, though the base color of their 
 <!-- organization: links -->
 [Bawi]: /star-sky/setting/creatures/bawi/
 [Commonwealth]: /star-sky/setting/factions/commonwealth/
-[humans]: ../humans/
+[humans]: ../human/
 [inner colonies]: /star-sky/setting/locations/#inner-colonies
 [Ter]: /star-sky/setting/locations/aster/ter/
 [timeline-unification]: /star-sky/setting/timeline/#unification-of-ngema
