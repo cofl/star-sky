@@ -2,16 +2,21 @@
 title: Barbarian
 template: index.jade
 ---
-# Barbian
+# Barbarian
 <!--{#top.center}-->
+
+Content borrowed from the [d20 SRD](http://5e.d20srd.org/srd/classes/barbarian.htm).
 
 ## Hit Points
 **Hit Dice:** 1d12 per Barbarian level
+
 **Hit Points at 1st Level:** 12 + your Constitution modifier
+
 **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per barbarian level after 1st.
 
 ## Proficiencies
 **Saving Throws:** Strength, Constitution
+
 **Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
 
 ## Advancement
@@ -24,7 +29,7 @@ template: index.jade
 |4th  |+2|[Ability Score Improvement](../#ability-score-improvement)|3|+2|
 |5th  |+3|[Extra Attack](#extra-attack), [Fast Movement](#fast-movement)|3|+2|
 |6th  |+3|Path Feature|4|+2|
-|7th  |+3|[Feral Instict](#feral-instinct)|4|+2
+|7th  |+3|[Feral Instinct](#feral-instinct)|4|+2
 |8th  |+3|[Ability Score Improvement](../#ability-score-improvement)|4|+2|
 |9th  |+4|[Brutal Critical](#brutal-critical) (1 die)|4|+3|
 |10th |+4|Path Feature|4|+3|
@@ -70,7 +75,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 ### Fast Movement
 Beginning at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor.
 
-### Feral Instict
+### Feral Instinct
 By 7th level, your instincts are so honed that you have advantage on initiative rolls. Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 
 ### Brutal Critical
@@ -89,18 +94,41 @@ Beginning at 18th level, if your total for a Strength check is less than your St
 At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 
 ## Barbarian Paths
+### Path of the Ancestral Guardian
+*Adapted from various sources.*
+
+Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger on in the world as mighty spirits who can guide and protect the living. When barbarians who follow this path rage, they cross the barrier into the spirit world and call on these guardian spirits for aid.
+
+Barbarians who draw on their ancestral guardians fight to protect their tribes and their allies. With the spirits’ help, they can hinder their foes even as they strike powerful blows against them.
+
+In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors’ deeds. These tattoos tell epic sagas of victories against terrible monsters and other fearsome rivals.
+
+**Ancestral Protectors**
+: Starting when you choose this path at 3rd level, spectral warriors appear when you rage. These warriors distract a foe you designate and hinder its attempts to evade you. While you’re raging, you can use a bonus action on your turn to choose one creature you can see within 5 feet of you. Until the start of your next turn or until your rage ends, the chosen creature has disadvantage on any attack roll that doesn’t target you, and if the creature takes the Disengage action within 5 feet of you, its speed is halved until the end of its turn.
+
+**Guardian Spirit**
+: Beginning at 6th level, the guardian spirits that aid you can provide protection for your allies. If you are raging and an ally you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by 2d6.
+
+**Watchful Spirit**
+: At 10th level, you gain the ability to consult with your ancestral spirits. Right before you make an Investigation, Religion, Insight, Perception, or Survival check, you can give yourself advantage on the check. You can use this feature five times per long rest.
+
+**Vengeful Spirit**
+: At 14th level, your ancestral spirits grow powerful enough to strike your foes. If you are ragiung and you or an ally you can see within 30 feet of you is damaged by a melee attack, you can use your reaction to cause the attacker to take 2d8 force damage from the spirits.
+
 ### Path of the Berserker
 For some barbarians, rage is a means to an end &mdash; that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or 
 well-being.
 
-Frenzy
+**Frenzy**
 : Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion.
 
-Mindless Rage
+**Mindless Rage**
 : Beginning at 6th level, you can't be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
 
-Intimidating Presence
+**Intimidating Presence**
 : Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you. If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours.
 
-Retaliation
+**Retaliation**
 : Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
+
+TODO: more paths!
