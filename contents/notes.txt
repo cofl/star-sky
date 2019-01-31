@@ -1,0 +1,82 @@
+Star Sky
+========
+
+- All characters are human.
+- Classes:
+    - Mystics (spontaneous, intuitive)
+    - Sage (prepared, learned)
+    - Enchanter (mix sage/tech)
+    - Tech (tech mage)
+    - Engineer
+    - Bruiser (front-line mundane melee)
+        - Guardian (light magic)
+    - Marksman
+    - Rogue
+
+- Characters pick class (discipline), profession, and background.
+    - Classes:
+        - Sorcerer
+            To a sorcerer, magic is like breath. The world is full of magic, and it is from the world that
+            they draw their strength. A sorcerer's discipline is often decided by where they grew up, and
+            when their power began to bud. Young sorcerers may find themselves sent away to enchanter's schools,
+            where they learn the intricacies of magical theory; others may stumble across or seek out great
+            and ancient beings with immense power, and in exchange for favors or other pacts, unlock the raw
+            power lurking inside them, or borrow what their benefactor won't miss.
+
+            Disciplines:
+                - TODO
+        - Enchanter
+            Enchanting is the oldest of the sciences. Enchanters do not know the raw strength of a sorcerer, or
+            the pure focus of a mystic, yet they excel at efficiency, ingenuity, and breadth. Young enchanters,
+            those identified to have some talent for magic, begin their study early, building the magical strength
+            necessary for enchanting over years of practice. The road is not easy, though, and many apprentices
+            and students find themselves let go by their masters, or left behind by their peers, unable to cast more
+            than a simple cantrip.
+
+            Disciplines:
+                - TODO
+        - Mystic
+            Mysticism is an ancient art, said to have been taught to man by the gods when the world was
+            still young. Mystics harness the divine nature of the human spirit and the spirits otherworldly
+            alike; magic is a living thing, born from within. Mystics tend to fall in two broad groups:
+            the trained, and the self-taught. Trained mystics are priests, clerics, and monks, drawing on their
+            chosen spirit's divine will to amplify their own inner strength and those of others, and tear down
+            the weak souls of their enemies; self-taught mystics can be just as strong, though, and blend in
+            to everday society just like you or I.
+
+            Disciplines:
+                - TODO
+        - Tower
+            TODO: melee/magic/tank
+            
+            Disciplines:
+                - TODO
+        - Bruiser
+            TODO: generic fighter with maneuvers or rage
+            
+            Disciplines:
+                - TODO
+        - Marksman
+            TODO: gun-user
+
+            Disciplines:
+                - TODO
+        - Rogue
+            TODO: generic Rogue
+
+            Disciplines:
+                - Thief: Same as 5e
+                - Gambit: Must have advantage to sneak attack, have tricks for creating advantage (active cloak/etc)
+                - Deadeye: Larger sneak attack and bonus to hit at range with \[precise\] ranged weapons, but must be unspotted to do so (bonuses to remaining unspotted when opponents are unaware or engaged in melee)
+        - Engineer
+            TODO
+
+            Disciplines:
+                - TODO
+        - Specialist
+            TODO:
+
+            Disciplines:
+                - TODO
+    - Professions:
+    - Backgrounds:

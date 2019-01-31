@@ -1,5 +1,5 @@
 ---
 title: Setting
-template: directory.jade
+template: directory.pug
 uplink: ../
 ---

@@ -1,5 +1,5 @@
 ---
 title: Factions
-template: directory.jade
+template: directory.pug
 uplink: ../
 ---

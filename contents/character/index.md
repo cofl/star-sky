@@ -1,6 +1,6 @@
 ---
 title: Characters and Character Creation
-template: index.jade
+template: index.pug
 uplink: ../
 ---
 

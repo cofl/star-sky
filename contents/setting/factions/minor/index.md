@@ -1,6 +1,6 @@
 ---
 title: Minor Factions
-template: index.jade
+template: index.pug
 ---
 
 TODO

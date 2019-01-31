@@ -1,4 +1,4 @@
-include mixins/tocItem.jade
+include mixins/tocItem.pug
 
 mixin contents(entry, level)
     - var files = env.helpers.directory.files(entry.listing)
@@ -29,7 +29,7 @@ mixin contents(entry, level)
 doctype html
 html(lang="en")
     head
-        include mixins/html-head.jade
+        include mixins/html-head.pug
         title= env.helpers.directory.parentFolderName(page)
         style
             != "div.directory-listing {margin-left: 1em}"
@@ -44,7 +44,7 @@ html(lang="en")
             div(id="toc-scroller")
                 h1 Table of Contents
                 div(class="toc-header")
-                    a(href = env.config.baseUrl) home
+                    a(href="/") home
                         span(class="fa fa-home")
                     if !page.metadata.nouplink
                         a(href=page.metadata.uplink || "..") Up

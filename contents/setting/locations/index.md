@@ -1,6 +1,6 @@
 ---
 title: Locations and Places
-template: index.jade
+template: index.pug
 ---
 
 TODO

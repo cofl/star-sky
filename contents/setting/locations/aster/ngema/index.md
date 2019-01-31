@@ -1,6 +1,6 @@
 ---
 title: Ngema
-template: index.jade
+template: index.pug
 ---
 
 # Ngema

@@ -1,6 +1,6 @@
 ---
 title: Classes
-template: index.jade
+template: index.pug
 ---
 TODO
 

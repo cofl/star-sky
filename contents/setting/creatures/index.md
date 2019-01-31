@@ -1,6 +1,6 @@
 ---
 title: Creatures
-template: index.jade
+template: index.pug
 uplink: ../
 ---
 

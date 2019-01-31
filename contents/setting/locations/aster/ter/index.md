@@ -1,6 +1,6 @@
 ---
 title: Ter
-template: index.jade
+template: index.pug
 ---
 
 TODO

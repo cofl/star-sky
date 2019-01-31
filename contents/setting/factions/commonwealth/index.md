@@ -1,6 +1,6 @@
 ---
 title: The Commonwealth
-template: index.jade
+template: index.pug
 ---
 
 # The Commonwealth of Ter, Ngema, and Europa

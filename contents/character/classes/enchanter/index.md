@@ -1,5 +1,5 @@
 ---
-title: Bawi
+title: Enchanter
 template: index.pug
 uplink: ../
 ---

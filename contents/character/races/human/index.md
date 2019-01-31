@@ -1,6 +1,6 @@
 ---
 title: Humans
-template: index.jade
+template: index.pug
 uplink: ../
 ---
 

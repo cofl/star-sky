@@ -1,11 +1,18 @@
 ---
 title: Races of the Commonwealth
-template: index.jade
+template: index.pug
 uplink: ../
 ---
 
 # Races of the Commonwealth
 <!--{#top.center}-->
+
+<div class="scratchpad">
+
+## [Human](./human/)
+Mankind are the traditional masters of [Terra]. By their might and aptability, they have set out across the void, building an empire where before lay a barren waste, and making it a home for trillions. The [Commonwealth] of Terra and Ngem stands today as ruler over the known world, and humanity are its masters.
+
+</div>
 
 ## [Sarkany](./sarkany/)
 The Sarkany are the people native to the mountains and the deep places of Ter, beautiful folk known for their iridescent scales that glitter in the pale glow of the lava flows. Though they've crossed spears, swords, and cannonfire with the other races of Ter many a time, after the spread of globalization and the industrial revolution they have become one of the dominant races of the [Commonwealth].

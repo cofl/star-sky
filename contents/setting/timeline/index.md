@@ -1,6 +1,6 @@
 ---
 title: Timeline
-template: index.jade
+template: index.pug
 ---
 
 TODO

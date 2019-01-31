@@ -1,5 +1,5 @@
 ---
-title: Bawi
+title: Mystic
 template: index.pug
 uplink: ../
 ---

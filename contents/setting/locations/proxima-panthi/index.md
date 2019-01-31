@@ -1,6 +1,6 @@
 ---
 title: Proxima Panthi
-template: index.jade
+template: index.pug
 ---
 
 TODO

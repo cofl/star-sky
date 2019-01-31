@@ -1,6 +1,6 @@
 ---
 title: Aster
-template: index.jade
+template: index.pug
 uplink: ../
 ---
 

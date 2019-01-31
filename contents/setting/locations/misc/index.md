@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous Locations
-template: index.jade
+template: index.pug
 ---
 
 TODO

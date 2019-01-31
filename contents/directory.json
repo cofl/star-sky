@@ -1,5 +1,5 @@
 {
-    "template": "directory.jade",
+    "template": "directory.pug",
     "nouplink": true,
     "parent-name": "Star Sky"
 }

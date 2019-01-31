@@ -1,6 +1,6 @@
 ---
 title: Europa
-template: index.jade
+template: index.pug
 uplink: ../
 ---
 

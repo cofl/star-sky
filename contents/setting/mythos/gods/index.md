@@ -1,6 +1,6 @@
 ---
 title: Gods of the Commonwealth
-template: index.jade
+template: index.pug
 ---
 
 TODO

@@ -14,7 +14,7 @@
   "output": "../output",
   "baseUrl": "/star-sky/",
   "directory-helper": {
-    "template": "directory.jade"
+    "template": "directory.pug"
   },
   "markdown-it": {
     "settings": {
@@ -22,7 +22,6 @@
       "linkify": true,
       "typographer": true
     },
-    "markdown-it-sup-alt": {},
     "markdown-it-sub-alt-mod": {},
     "markdown-it-decorate": {},
     "markdown-it-footnote": {},

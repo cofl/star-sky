@@ -11,11 +11,9 @@ module.exports = function(env, callback){
     const normalizePath = (url) => env.config.baseUrl + url.replace(/\\/g, '/')
     const titleCase = (str) => str.replace(/\w\S*/g, (text) => text.charAt(0).toUpperCase() + text.slice(1))
     const template = env.config["directory-helper"].template
-    const getDirectoryListingUrl = function(value){
-        if('metadata' in value && value.metadata.template == template)
-            return normalizePath(value.filename);
-        else
-            return null;
+    const getDirectoryListingUrl = (value, base) => {
+        const list = Object.values(value).filter((it) => 'metadata' in it && it.metadata.template == template)
+        return (list.length == 0) ? null : normalizePath(list[0].filename)
     }
     const excludeName = (name) => name.endsWith('.styl') || name == 'meta.json'
     const exclude = (name, it, mjson) => {
@@ -37,56 +35,30 @@ module.exports = function(env, callback){
 
     env.helpers.directory = {
         listing: function(page){
+            const thisDirectory = splitPath(normalizePath(page.filepath.relative))
             let number = 0
-            function parse(dir, used_index){
+            function parse(dir, baseUrl){
                 var listing = []
                 var mjson = ('meta.json' in dir) ? dir['meta.json'].metadata : {}
                 for(name in dir){
-                    if(excludeName(name)) // leave out files we shouldn't list
+                    if(excludeName(name))
                         continue
                     let value = dir[name]
-                    if(exclude(name, value, mjson)) // leave out files we ask not to list
+                    if(exclude(name, value, mjson))
                         continue
                     let isFile = 'filepath' in value
-                    let link, _name;
-                    if(isFile){
-                        if(name == 'index.md' && used_index)
-                            continue; // skip index.md if it was used for the directory name
-                        link = normalizePath(value.filename) || ''
-                        _name = value.title
-                    } else if('index.md' in value){
-                        link = normalizePath(value['index.md'].filename) || ''
-                        _name = value['index.md'].metadata.title
-                        used_index = true
-                    } else {
-                        link = getDirectoryListingUrl(value) || ''
-                        _name = name
-                    }
-                    if(name in mjson && 'title' in mjson[name]){
-                        _name = mjson[name].title
-                    }
-                    link = link.replace(/\/index.html$/, '/') // strip "index.html" from the end of links
-                    listing.push({
-                        name: _name,
-                        isFile,
-                        link,
-                        listing: (isFile ? null : parse(value, used_index)),
-                        id: 'item' + (number++)
-                    })
+                    let link = (isFile ? normalizePath(value.filename) : getDirectoryListingUrl(value, thisDirectory) || '').replace(/\/index.html$/, '/')
+                    let fname = isFile? value.title : name
+                    listing.push({ name: (name in mjson && 'title' in mjson[name]) ? mjson[name].title : fname, fname, isFile, link, listing: (isFile ? null : parse(value, link)), id: 'item' + (number++) })
                 }
                 return listing.sort((a, b) => ((!a.isFile && b.isFile) || (a.name < b.name)) ? -1 : ((a.isFile && !b.isFile) || (a.name > b.name)) ? 1 : 0)
             }
-            return parse(page.parent, false)
+            return parse(page.parent, thisDirectory)
         },
         files: (directoryListing) => directoryListing.filter((it) => it.isFile),
         directories: (directoryListing) => directoryListing.filter((it) => !it.isFile),
-        parentFolderName: (page) => ('metadata' in page && 'parent-name' in page.metadata) ? page.metadata['parent-name'] : titleCase(leafPath(splitPath(normalizePath(page.filename)))) || 'root',
-        directoryListingUrl: function(page){
-            if('metadata' in page && 'uplink' in page.metadata)
-                return page.metadata.uplink;
-            else
-                return getDirectoryListingUrl(page.parent)
-        }
+        parentFolderName: (page) => titleCase(leafPath(splitPath(normalizePath(page.filename)))) || 'root',
+        directoryListingUrl: (page) => ('metadata' in page && 'uplink' in page.metadata) ? page.metadata.uplink : getDirectoryListingUrl(page.parent, splitPath(normalizePath(page.filename)))
     }
     env.helpers.titleCase = titleCase
     callback()
